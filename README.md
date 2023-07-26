@@ -12,7 +12,6 @@ Welcome to the Voice-Based Academic Records Retrieval System! This Python applic
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [Acknowledgments](#acknowledgments)
 - [Team Members](#team_members)
 
 
@@ -41,16 +40,6 @@ Welcome to the Voice-Based Academic Records Retrieval System! This Python applic
 
 4. Enjoy the effortless retrieval of academic records using your voice!
 
-
-## Acknowledgments
-
-This project was made possible with the support of the open-source community and the following packages:
-
-- [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
-- [pyodbc](https://pypi.org/project/pyodbc/)
-- [Pyaudio](https://pypi.org/project/PyAudio/)
-
-Special thanks to the developers and contributors of these packages for their valuable contributions.
 
 Feel free to contribute, report issues, or provide feedback on the [GitHub repository](https://github.com/AisharyaR/VOICE-BASED-ACADEMIC-RETRIEVAL). Happy voice-based academic record retrieval! 🎉
 
